@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#rick {
+    width: 560px;
+    height: 315px;
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
